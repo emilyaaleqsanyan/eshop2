@@ -83,6 +83,7 @@ public class Main implements Commands {
 
     }
 
+
     private static void editCategoryById() {
         System.out.println("Please input category id ");
         int categoryId = Integer.parseInt(SCANNER.nextLine());

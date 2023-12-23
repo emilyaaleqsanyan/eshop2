@@ -180,8 +180,6 @@ public class ProductManager {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-
-
     }
 
     public void printMaxOfPrice() {
